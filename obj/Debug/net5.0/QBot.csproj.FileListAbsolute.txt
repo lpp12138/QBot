@@ -1,0 +1,16 @@
+C:\Users\lpp\source\repos\QBot\bin\Debug\net5.0\QBot.exe
+C:\Users\lpp\source\repos\QBot\bin\Debug\net5.0\QBot.deps.json
+C:\Users\lpp\source\repos\QBot\bin\Debug\net5.0\QBot.runtimeconfig.json
+C:\Users\lpp\source\repos\QBot\bin\Debug\net5.0\QBot.runtimeconfig.dev.json
+C:\Users\lpp\source\repos\QBot\bin\Debug\net5.0\QBot.dll
+C:\Users\lpp\source\repos\QBot\bin\Debug\net5.0\ref\QBot.dll
+C:\Users\lpp\source\repos\QBot\bin\Debug\net5.0\QBot.pdb
+C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.csproj.AssemblyReference.cache
+C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.AssemblyInfoInputs.cache
+C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.AssemblyInfo.cs
+C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.csproj.CoreCompileInputs.cache
+C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.dll
+C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\ref\QBot.dll
+C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.pdb
+C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.genruntimeconfig.cache

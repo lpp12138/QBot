@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QBot": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
