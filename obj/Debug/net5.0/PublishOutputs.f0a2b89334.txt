@@ -1,0 +1,5 @@
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\bin\Release\net5.0\publish\QBot.exe
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\bin\Release\net5.0\publish\QBot.dll
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\bin\Release\net5.0\publish\QBot.deps.json
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\bin\Release\net5.0\publish\QBot.runtimeconfig.json
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\bin\Release\net5.0\publish\QBot.pdb

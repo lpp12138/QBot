@@ -5,7 +5,6 @@ C:\Users\lpp\source\repos\QBot\bin\Debug\net5.0\QBot.runtimeconfig.dev.json
 C:\Users\lpp\source\repos\QBot\bin\Debug\net5.0\QBot.dll
 C:\Users\lpp\source\repos\QBot\bin\Debug\net5.0\ref\QBot.dll
 C:\Users\lpp\source\repos\QBot\bin\Debug\net5.0\QBot.pdb
-C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.csproj.AssemblyReference.cache
 C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.AssemblyInfoInputs.cache
 C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.AssemblyInfo.cs
@@ -14,3 +13,20 @@ C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.dll
 C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\ref\QBot.dll
 C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.pdb
 C:\Users\lpp\source\repos\QBot\obj\Debug\net5.0\QBot.genruntimeconfig.cache
+C:\Users\lpp\source\Repos\QBot\obj\Debug\net5.0\QBot.csproj.AssemblyReference.cache
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\bin\Debug\net5.0\QBot.exe
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\bin\Debug\net5.0\QBot.deps.json
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\bin\Debug\net5.0\QBot.runtimeconfig.json
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\bin\Debug\net5.0\QBot.runtimeconfig.dev.json
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\bin\Debug\net5.0\QBot.dll
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\bin\Debug\net5.0\ref\QBot.dll
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\bin\Debug\net5.0\QBot.pdb
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\obj\Debug\net5.0\QBot.csproj.AssemblyReference.cache
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\obj\Debug\net5.0\QBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\obj\Debug\net5.0\QBot.AssemblyInfoInputs.cache
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\obj\Debug\net5.0\QBot.AssemblyInfo.cs
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\obj\Debug\net5.0\QBot.csproj.CoreCompileInputs.cache
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\obj\Debug\net5.0\QBot.dll
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\obj\Debug\net5.0\ref\QBot.dll
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\obj\Debug\net5.0\QBot.pdb
+D:\OneDrive - mail.hfut.edu.cn\Repos\QBot\obj\Debug\net5.0\QBot.genruntimeconfig.cache

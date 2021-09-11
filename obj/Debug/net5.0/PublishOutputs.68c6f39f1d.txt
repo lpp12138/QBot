@@ -1,0 +1,5 @@
+C:\Users\lpp\source\Repos\QBot\bin\Release\net5.0\publish\QBot.exe
+C:\Users\lpp\source\Repos\QBot\bin\Release\net5.0\publish\QBot.dll
+C:\Users\lpp\source\Repos\QBot\bin\Release\net5.0\publish\QBot.deps.json
+C:\Users\lpp\source\Repos\QBot\bin\Release\net5.0\publish\QBot.runtimeconfig.json
+C:\Users\lpp\source\Repos\QBot\bin\Release\net5.0\publish\QBot.pdb
